@@ -27,7 +27,7 @@ module.exports = {
       ]
     }
   }, {
-    method: "fs.share",
+    method: "fs.link",
     params: {
       venv: "app/env"
     }
