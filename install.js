@@ -13,7 +13,7 @@ module.exports = {
       params: {
         path: "app",
         venv: "env",
-//        xformers: true
+        xformers: true
       }
     }
   }, {
