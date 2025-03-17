@@ -22,7 +22,7 @@ module.exports = {
       venv: "env",
       path: "app",
       message: [
-        "pip install gradio",
+        "pip install gradio huggingface_hub",
         "pip install -r requirements.txt",
       ]
     }
